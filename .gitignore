@@ -1,0 +1,17 @@
+# Personal tasks, settings, backups and recovery files
+/数据/
+
+# Local verification and generated build files
+/测试结果/
+*.next.exe
+/错误日志.txt
+/发布/
+*.tmp
+*.bak
+*.damaged
+
+# Editor and OS files
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
